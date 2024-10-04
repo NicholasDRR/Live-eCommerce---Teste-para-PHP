@@ -1,4 +1,4 @@
-﻿# Live-eCommerce---Teste-para-PHP
+﻿# Live-eCommerce - test
 
 To run this project, ensure you have <a href="https://www.php.net/downloads.php">PHP</a> installed on your machine.
 
